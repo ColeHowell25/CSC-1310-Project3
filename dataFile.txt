@@ -1,0 +1,30 @@
+100
+Ace Combat 7
+8
+101
+Rainbow Six: Siege
+9
+102
+Assassin's Creed: Odyssey
+9
+103
+Anthem
+2
+104
+God of War
+10
+105
+Red Dead Redemption 2
+10
+106
+Battlefield 4
+7
+107
+Civilization 5
+9
+108
+Dark Souls 3
+10
+109
+Monster Hunter: World
+4
